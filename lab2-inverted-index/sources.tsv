@@ -1,0 +1,11 @@
+filename	title	url
+document01.txt	Single Node Cluster	https://hadoop.apache.org/docs/r3.3.6/hadoop-project-dist/hadoop-common/SingleCluster.html
+document02.txt	Cluster Setup	https://hadoop.apache.org/docs/r3.3.6/hadoop-project-dist/hadoop-common/ClusterSetup.html
+document03.txt	File System Shell	https://hadoop.apache.org/docs/r3.3.6/hadoop-project-dist/hadoop-common/FileSystemShell.html
+document04.txt	HDFS Architecture	https://hadoop.apache.org/docs/r3.3.6/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html
+document05.txt	HDFS User Guide	https://hadoop.apache.org/docs/r3.3.6/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html
+document06.txt	MapReduce Tutorial	https://hadoop.apache.org/docs/r3.3.6/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html
+document07.txt	Hadoop Streaming	https://hadoop.apache.org/docs/r3.3.6/hadoop-streaming/HadoopStreaming.html
+document08.txt	Hadoop Archives	https://hadoop.apache.org/docs/r3.3.6/hadoop-archives/HadoopArchives.html
+document09.txt	YARN Architecture	https://hadoop.apache.org/docs/r3.3.6/hadoop-yarn/hadoop-yarn-site/YARN.html
+document10.txt	YARN Commands	https://hadoop.apache.org/docs/r3.3.6/hadoop-yarn/hadoop-yarn-site/YarnCommands.html

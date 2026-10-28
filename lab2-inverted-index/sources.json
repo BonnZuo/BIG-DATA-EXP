@@ -1,0 +1,82 @@
+[
+  {
+    "file": "document01.txt",
+    "title": "Single Node Cluster",
+    "url": "https://hadoop.apache.org/docs/r3.3.6/hadoop-project-dist/hadoop-common/SingleCluster.html",
+    "downloaded_at": "2026-10-28T03:00:51.393537+00:00",
+    "bytes": 6236,
+    "sha256": "68fcca71897d782a73e69454ebe6c51236552cd2be454cca0524ee1cb64a26dd"
+  },
+  {
+    "file": "document02.txt",
+    "title": "Cluster Setup",
+    "url": "https://hadoop.apache.org/docs/r3.3.6/hadoop-project-dist/hadoop-common/ClusterSetup.html",
+    "downloaded_at": "2026-10-28T03:00:51.485211+00:00",
+    "bytes": 19466,
+    "sha256": "133945a129c0c57b2242230ef92309550f07b277fc2804cd8b9d1d7d494657ea"
+  },
+  {
+    "file": "document03.txt",
+    "title": "File System Shell",
+    "url": "https://hadoop.apache.org/docs/r3.3.6/hadoop-project-dist/hadoop-common/FileSystemShell.html",
+    "downloaded_at": "2026-10-28T03:00:51.509766+00:00",
+    "bytes": 37147,
+    "sha256": "deab25431070705734bc8a205ff49c34f3e59421f52f84580333af407b0eeabf"
+  },
+  {
+    "file": "document04.txt",
+    "title": "HDFS Architecture",
+    "url": "https://hadoop.apache.org/docs/r3.3.6/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html",
+    "downloaded_at": "2026-10-28T03:00:51.509325+00:00",
+    "bytes": 26837,
+    "sha256": "65b708f1c2f5172623f9e773285567b0a696600ec194e42d246a7aa9fa38ec18"
+  },
+  {
+    "file": "document05.txt",
+    "title": "HDFS User Guide",
+    "url": "https://hadoop.apache.org/docs/r3.3.6/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html",
+    "downloaded_at": "2026-10-28T03:00:51.485262+00:00",
+    "bytes": 23953,
+    "sha256": "d235e0878795a84210769c1eca2dcf572da6873db36e989d047a3a77875e61db"
+  },
+  {
+    "file": "document06.txt",
+    "title": "MapReduce Tutorial",
+    "url": "https://hadoop.apache.org/docs/r3.3.6/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html",
+    "downloaded_at": "2026-10-28T03:00:51.982356+00:00",
+    "bytes": 56871,
+    "sha256": "b795dca59ad163f45f7a9c5fec6a653b0630cad4549182e0dc4cdb2ad00906b7"
+  },
+  {
+    "file": "document07.txt",
+    "title": "Hadoop Streaming",
+    "url": "https://hadoop.apache.org/docs/r3.3.6/hadoop-streaming/HadoopStreaming.html",
+    "downloaded_at": "2026-10-28T03:00:52.153565+00:00",
+    "bytes": 26895,
+    "sha256": "3ae8d86f29d8d857106447e09e5b0e2dc6b3b37cc566bc75eb21d31a3ce35d86"
+  },
+  {
+    "file": "document08.txt",
+    "title": "Hadoop Archives",
+    "url": "https://hadoop.apache.org/docs/r3.3.6/hadoop-archives/HadoopArchives.html",
+    "downloaded_at": "2026-10-28T03:00:52.014910+00:00",
+    "bytes": 4731,
+    "sha256": "4b3023a2acc28cee2680071a2a3f720412809697b73d2a1565cde218d9dac397"
+  },
+  {
+    "file": "document09.txt",
+    "title": "YARN Architecture",
+    "url": "https://hadoop.apache.org/docs/r3.3.6/hadoop-yarn/hadoop-yarn-site/YARN.html",
+    "downloaded_at": "2026-10-28T03:00:52.110665+00:00",
+    "bytes": 3384,
+    "sha256": "444fb68f375296776851d82f237c15cec63f74671697e61c864eda955ec75fe7"
+  },
+  {
+    "file": "document10.txt",
+    "title": "YARN Commands",
+    "url": "https://hadoop.apache.org/docs/r3.3.6/hadoop-yarn/hadoop-yarn-site/YarnCommands.html",
+    "downloaded_at": "2026-10-28T03:00:52.244458+00:00",
+    "bytes": 19161,
+    "sha256": "484313db6e26d173232487e1314fa3c12b2ec1e1b301d54b689e5907550ab907"
+  }
+]

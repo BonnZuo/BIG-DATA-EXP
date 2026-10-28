@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.class
+*.jar
+/build/
+/cluster/
+/conf/
+/env.sh
+/archive/
+/logs/*
+!/logs/06-job-full.txt
+!/logs/08-verification.txt
+/results/*
+!/results/part-r-00000

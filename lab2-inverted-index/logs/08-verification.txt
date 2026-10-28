@@ -1,0 +1,12 @@
+PASS: Hadoop output matches independent Python reference for ALL words.
+Input documents: 10
+Unique indexed words: 2952
+Total indexed tokens: 24381
+PASS: All per-document frequencies and totals match.
+PASS: No stopwords appear in the output.
+PASS: Each word and each document posting appears only once.
+data {'document01.txt': 1, 'document02.txt': 5, 'document03.txt': 8, 'document04.txt': 74, 'document05.txt': 18, 'document06.txt': 15, 'document07.txt': 7, 'document08.txt': 1, 'document09.txt': 1, 'document10.txt': 1} total= 131
+hadoop {'document01.txt': 45, 'document02.txt': 102, 'document03.txt': 196, 'document04.txt': 25, 'document05.txt': 38, 'document06.txt': 80, 'document07.txt': 40, 'document08.txt': 33, 'document09.txt': 3, 'document10.txt': 15} total= 577
+mapreduce {'document01.txt': 14, 'document02.txt': 25, 'document04.txt': 1, 'document05.txt': 1, 'document06.txt': 110, 'document07.txt': 32, 'document08.txt': 5, 'document09.txt': 2} total= 190
+file {'document01.txt': 2, 'document02.txt': 7, 'document03.txt': 142, 'document04.txt': 81, 'document05.txt': 49, 'document06.txt': 45, 'document07.txt': 20, 'document08.txt': 8, 'document10.txt': 23} total= 377
+cluster {'document01.txt': 8, 'document02.txt': 15, 'document03.txt': 6, 'document04.txt': 17, 'document05.txt': 32, 'document06.txt': 6, 'document07.txt': 5, 'document08.txt': 1, 'document09.txt': 2, 'document10.txt': 8} total= 100
