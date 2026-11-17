@@ -1,0 +1,4 @@
+PASS mapreduce.txt: 7 pages, max error=4.930E-11, displayed sum=0.9999999999
+PASS spark.txt: 7 pages, max error=4.930E-11, displayed sum=0.9999999999
+PASS MapReduce and Spark match for every page at 10 decimals
+Ranking: C > A > B > D > E > G > F
